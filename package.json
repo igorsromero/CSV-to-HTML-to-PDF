@@ -1,0 +1,23 @@
+{
+  "name": "csv-to-html-to-pdf",
+  "version": "1.0.0",
+  "description": "Conversor de CSV (Excel) para HTML e de HTML para PDF. Desenvolvido como forma de estudo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorsromero/CSV-to-HTML-to-PDF.git"
+  },
+  "author": "Igor Solfa Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorsromero/CSV-to-HTML-to-PDF/issues"
+  },
+  "homepage": "https://github.com/igorsromero/CSV-to-HTML-to-PDF#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^3.0.1"
+  }
+}
